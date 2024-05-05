@@ -1,0 +1,7 @@
+Flask
+pdfplumber
+python-dotenv
+faiss-cpu
+google-generativeai
+langchain-google-genai
+langchain
